@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: consolas;
+}
+
+.btn {
+    background: none;
+    color: #111;
+    margin: 20px auto;
+    padding: 15px 60px;
+    font-size: 1em;
+    max-width: 200px;
+    outline: navajowhite;
+}
